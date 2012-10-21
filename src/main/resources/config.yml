@@ -1,0 +1,6 @@
+server-name: 'default'
+database-name: 'mport'
+mysql-ip: 'localhost'
+mysql-port: 3306
+mysql-user: 'root'
+mysql-pass: 'password'
